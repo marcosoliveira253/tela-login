@@ -18,7 +18,7 @@ Este projeto utiliza as seguintes dependências:
 - Material Symbols Outlined
 
 ## Imagem da tela de login
-![Texto Alternativo](URL_da_Imagem)
+![Texto Alternativo](https://github.com/marcosoliveira253/tela-login/blob/main/img/tela.png)
 
 
 ## Contribuição
